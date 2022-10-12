@@ -1,6 +1,6 @@
 # Fullstack Web Developer course
 
-An online course to become a fullstack developer with the following tools and technologies
+## An online course to become a fullstack developer with the following tools and technologies
 
 * HTML 5
 * CSS 3
