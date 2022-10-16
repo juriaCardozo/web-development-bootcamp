@@ -30,6 +30,14 @@ a{
     color: #0AA1DD;
 }
 
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 7px;
+    width: 5%;
+}
+
 .pro{
     text-decoration: underline;
 }
@@ -37,6 +45,7 @@ a{
 .profile-pic{
     height: 200px;
     border-radius: 100%;
+    margin-top: 70px;
 }
 
 .top-container{
@@ -56,4 +65,10 @@ a{
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 10px auto;
+    line-height: 2;
 }
