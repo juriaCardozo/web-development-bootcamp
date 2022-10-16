@@ -6,7 +6,27 @@ body{
 h1{
     margin-top: 0;
 }
-/* 
-div{
-    background-color: #E8F9FD;
-} */
+
+.top-container{
+    background-color: #E8F9FD; 
+    border: solid 10px; 
+    padding: 20px; 
+    height: 200px; 
+    width: 200px;
+}
+
+.middle-container{
+    background-color: red; 
+    border: solid 20px; 
+    height: 200px; 
+    width: 200px; 
+    margin-left: 260px;
+}
+
+.botton-container{
+    background-color: yellow; 
+    border: solid 10px; 
+    height: 200px; 
+    width: 200px; 
+    margin-left: 500px;
+}
